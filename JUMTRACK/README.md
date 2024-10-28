@@ -21,12 +21,6 @@ This project is a decentralized delivery application that leverages blockchain t
 
 ## How It Works
 
-### Smart Contract for Deliveries
-
-**Smart Contract Addresses**:
-- Delivery Contract: [Address](https://eth-sepolia.blockscout.com/address/0x8BA77209a94d16CA5d4f7Bf3A8641927B69046aA)
-- Ratings Contract: [Address](https://eth-sepolia.blockscout.com/address/0x2Bd08EE606CcB8f74bd3770e04C5c2F2dE17e25b)
-
 The core functionality of the application is managed through a smart contract that:
 
 1. **Creates Package Orders**: Users can create package orders that include essential details such as sender, recipient, and postage.
